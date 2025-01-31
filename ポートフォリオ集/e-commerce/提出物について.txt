@@ -1,0 +1,9 @@
+ソースコード: part1,part2,part3.ipynb
+
+プレゼンテーション : eコマース製品のカテゴリ予測.pptx
+
+環境jupyter lab
+
+requirements.txtに使用したライブラリの一覧が書いてある。
+
+
